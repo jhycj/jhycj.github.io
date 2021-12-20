@@ -96,9 +96,9 @@ analytics:
 author:
   name             : "Heeyoung Joo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "B.S. in Mathematics Education <br> M.S. in Computer Science"
-  location         : "Repulic of Korea"
-  email            : jhycj00@gmail.com
+  bio              : #""
+  location         : #"Repulic of Korea"
+  email            : "jhycj@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
